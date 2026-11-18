@@ -1,0 +1,4 @@
+﻿hablante,vocal,formante,n_muestras,promedio_Hz,desviacion_estandar_Hz
+H03,i,F1_Hz,3,261.2855282902542,2.254667325934548
+H03,i,F2_Hz,3,3075.2472224223543,1241.178870144006
+H03,i,F3_Hz,1,2343.4624873187754,0.0

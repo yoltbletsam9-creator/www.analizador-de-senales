@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+sounddevice
+pandas
+scikit-learn
+joblib
