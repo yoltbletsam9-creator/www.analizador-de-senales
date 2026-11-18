@@ -196,6 +196,7 @@ El video deberá mostrar:
 - El entrenamiento del modelo.
 - Una predicción en vivo.
 - Una breve explicación de los resultados.
+- https://youtu.be/MA48JsqsPqA
 
 ## Requisitos
 
